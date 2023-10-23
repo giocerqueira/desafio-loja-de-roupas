@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+li {
+  display: inline-block;
+  font-size: 2rem;
+  margin-left: 6rem;
+  margin-top: 2.5rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 200;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+header {
+  background-color: #a620d6;
+  height: 120px;
+}
+
+div {
+  border: solid white;
+  display: inline-block;
+  margin-left: 6rem;
+}
+
+h2 {
+  margin-left: 4rem;
+  font-family: "Roboto", sans-serif;
+  margin-top: 2rem;
+}
+
+button {
+  margin-left: 5rem;
+  margin-top: 2rem;
+}
+
+form {
+  margin-left: 3rem;
+  margin-top: 2rem;
+}
+
+.precodasblusas {
+  margin-left: 5rem;
+}
+
+.botaodasblusas {
+  margin-left: 5.5rem;
+}
+
+.formulariodasblusas {
+  margin-left: 3.5rem;
+}
+
+img {
+  width: 250px;
+  height: 220px;
+  border: solid white;
+}
+
+footer {
+  margin-top: 3rem;
+  background-color: #e8a6ff;
+}
